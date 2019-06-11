@@ -1,0 +1,17 @@
+button {
+    margin: 0.5em;
+}
+
+div {
+    width: 700px;
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: 5em;
+    text-align: center;
+}
+
+input {
+    width: 80%;
+}
