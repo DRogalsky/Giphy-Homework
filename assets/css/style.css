@@ -15,3 +15,27 @@ h1 {
 input {
     width: 80%;
 }
+
+p {
+    margin: 1em;
+    margin-left: 0;
+}
+
+#gifContainer {
+    width: 90%;
+    margin: 2em;
+}
+
+#gifContainer > * {
+    display:inline-block;
+    width: auto;
+    margin: 1em;
+}
+
+button {
+    background: #05386B;
+    color: white;
+    border: none;
+    padding: 1em;
+    border-radius: 10%;
+}

@@ -1,1 +1,3 @@
 # Giphy-Homework
+
+## Getting Started
